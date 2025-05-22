@@ -41,7 +41,7 @@ connectDB()
     console.log("Database connection established...");
     
     // Listen on port 5000
-    app.listen(5000, () => {
+    app.listen(5174, () => {
       console.log("Server is successfully listening on port 5000...");
     });
   })
